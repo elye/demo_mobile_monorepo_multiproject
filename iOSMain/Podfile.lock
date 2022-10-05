@@ -1,0 +1,16 @@
+PODS:
+  - iOSFeature (0.1.0)
+
+DEPENDENCIES:
+  - iOSFeature (from `../iOSFeature/`)
+
+EXTERNAL SOURCES:
+  iOSFeature:
+    :path: "../iOSFeature/"
+
+SPEC CHECKSUMS:
+  iOSFeature: 5455f2128ec2ad797bed517b03608fa95077285c
+
+PODFILE CHECKSUM: 7370cd6aa5be43881019c9b9575f1cfaa62ec22b
+
+COCOAPODS: 1.11.3
